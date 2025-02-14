@@ -1,0 +1,14 @@
+.pookiePage {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+.pageHeader {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.pageHeader h1 {
+  text-align: center;
+}
